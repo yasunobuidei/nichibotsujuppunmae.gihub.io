@@ -1,1 +1,1 @@
-# nichibotsujuppunmae.gihub.io
+# nichibotsujuppunmae.github.io
